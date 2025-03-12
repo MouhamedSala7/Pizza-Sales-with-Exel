@@ -73,6 +73,7 @@ For more queries, check the [`PIZZA SALES SQL QUERIES`](PIZZA_SALES_SQL_QUERIES.
 
  
 
+![my Dashboard ](https://github.com/user-attachments/assets/bcad4867-e41a-4112-b357-ef82ccf313c3)
 ---
 
 ### 👨‍💻 **Author**: Mohamed Salah  
