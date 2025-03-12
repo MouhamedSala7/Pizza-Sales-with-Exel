@@ -1,4 +1,3 @@
-Here’s a **README.md** file you can copy and add directly to your GitHub repository for the **Pizza Sales Analysis** project:  
 
 ---
 
